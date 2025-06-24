@@ -1,5 +1,5 @@
 # Basic cheat Buster App 
-# https://github.com/koushikminfy/cheat_buster/tree/main
+# https://github.com/koushikminfy/cheat_buster
 ```markdown
 
 
@@ -181,6 +181,7 @@ GET /api/users/search?name=John
 ---
 
 #  VibeCheck_Easy
+# https://github.com/koushikminfy/Vibecheck
 ```markdown
 
 
