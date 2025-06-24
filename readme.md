@@ -81,7 +81,7 @@ bun seed.js
 
 
 
-## 🔁 Frontend–Backend Integration
+##  Frontend–Backend Integration
 
 | What Happens                         | File                       |
 | ------------------------------------ | -------------------------- |
@@ -94,7 +94,7 @@ bun seed.js
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 ![Terminal](https://github.com/user-attachments/assets/e738d960-d13b-4126-afc5-689095365a29)
 ![Home](https://github.com/user-attachments/assets/657f0f74-7e49-4746-bce6-6ee626b933c6)
 
