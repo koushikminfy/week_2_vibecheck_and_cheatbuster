@@ -1,5 +1,5 @@
 # Basic cheat Buster App 
-# https://github.com/koushikminfy/cheat_buster/blob/main/README.md
+# https://github.com/koushikminfy/cheat_buster/tree/main
 ```markdown
 
 
