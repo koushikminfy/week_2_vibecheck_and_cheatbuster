@@ -1,5 +1,21 @@
-# Basic cheat Buster App 
+# Individual repo link as push for this repo is not properly done 
+
+# 1.Basic cheatbuster 
 # https://github.com/koushikminfy/cheat_buster
+
+# 2.cheat buster adv
+# https://github.com/koushikminfy/cheatbuster_Adv
+
+# 3.vibe check basic
+# https://github.com/koushikminfy/Vibecheck
+
+# 4.vibe check adv
+# https://github.com/koushikminfy/vibecheck_adv
+
+------------------------------------------------------------------------------------------------------------
+
+# Basic cheat Buster App 
+## https://github.com/koushikminfy/cheat_buster
 ```markdown
 
 
@@ -284,7 +300,7 @@ If the ID is not found:
 
 
 #  VibeCheck_Advanced 
-
+# https://github.com/koushikminfy/vibecheck_adv
 ```markdown
 
 
